@@ -1,3 +1,3 @@
-# music.efpophis.net site 
+# death-astonished.com site 
 
-Please visit the full site at <a href="https://music.efpophis.net" target=_blank>music.efpophis.net</a>
+Please visit the full site at <a href="https://death-astonished.com" target=_blank>death-astonished.com</a>
