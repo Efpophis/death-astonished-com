@@ -16,13 +16,10 @@ listen_links:
 download_links:
   - label: "Download MP3"
     comment: "320kbps high quality. Most compatible."
-    url: https://mega.nz/file/4AZlySZZ#Je4aPxZai8dKsS_cDrwPRMwXuJ_37b3OA76ZL_sdjss
-  - label: "Download M4A"
-    comment: "Apple AAC files. Smallest files size."
-    url: https://mega.nz/file/EQhkCBBQ#LoNQXmp6nj0mECG2U7h1PGsg2YXSzgFUo3TxF7QG0xI
+    url: https://mega.nz/file/cIJkHSoK#dfaDUvDf66e2ni-GKXuv79tM2MqEiXv7fV510tAJMJg
   - label: "Download FLAC"
     comment: "Lossless for audiophiles. Largest file size."
-    url: https://mega.nz/file/ZdhinSKD#AhLDN_FaxFCB2hphrl3MRWh9MDaOEtFAoMm6ykX63j0
+    url: https://mega.nz/file/1VRRUZxJ#bTo3olYKtdhxWH6R3QW56yF73VZ9YWmA_fxRdTj5cDc
 embed_html: |
    <iframe src="https://audiomack.com/embed/album/billcrossley/death-and-resurrection" width="100%" height="250" frameborder="0" scrolling="no"></iframe>
 ---

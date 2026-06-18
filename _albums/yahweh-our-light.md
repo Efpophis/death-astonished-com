@@ -16,13 +16,10 @@ listen_links:
 download_links:
   - label: "Download MP3"
     comment: "320kbps high quality. Most compatible."
-    url: https://mega.nz/file/IFBXxZyA#idpELQZtG7dkhrR4z7CBgBymUgfl1KDRHKJfTnaujIM
-  - label: "Download M4A"
-    comment: "Apple AAC files. Smallest files size."
-    url: https://mega.nz/file/FF4wgSBC#Ih5rB043Ly1peo3KQ6AmbjlmZ_4_kCXvRrLPOav4h2E
+    url: https://mega.nz/file/cQoQWIxa#CdUecrwPEpe9L25jv2qSXxVFmIw_pfzSc2nAUJnhP7k
   - label: "Download FLAC"
     comment: "Lossless for audiophiles. Largest file size."
-    url: https://mega.nz/file/BI4kWRRY#iyhlcYF77kuF5Z3jdVXz5laMFIuvrZYxWBfvOcIJcxc
+    url: https://mega.nz/file/FBo00ZwR#e3rqOc1BMD19r86TTJ3w12x4FFbfS6ir0eQhKWeqhzs
 embed_html: |
   <iframe src="https://audiomack.com//embed/billcrossley/album/yahweh-our-light-1" scrolling="no" width="100%" height="250" frameborder="0" title="Yahweh Our Light"></iframe>
 ---
