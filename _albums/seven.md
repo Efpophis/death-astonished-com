@@ -16,13 +16,10 @@ listen_links:
 download_links:
   - label: "Download MP3"
     comment: "320kbps high quality. Most compatible."
-    url: https://mega.nz/file/FMZEWRCC#OMtju1RF91hgCNLDC3lAMp3eHtUx0IfB12kAUwSDkqc
-  - label: "Download M4A"
-    comment: "Apple AAC files. Smallest files size."
-    url: https://mega.nz/file/4MIkTQoa#ot9vvsfrl0EFVVybIoag3F1cD2y8iriqIGnWB-FrgYQ
+    url: https://mega.nz/file/9FJgnB4D#imUSNy1g1mhZ39SxdS3y3jOHGIJUOD6DtJjmRHcbBTU
   - label: "Download FLAC"
     comment: "Lossless for audiophiles. Largest file size."
-    url: https://mega.nz/file/lRxRma6I#ELukaV_dR4Vz__dVDZyOQAxl3M33Sgj53Lgy6ZDo4bE
+    url: https://mega.nz/file/FcYRBTpS#ViXXM9IJsDmnt0B7qpkGjpp55iep-SDOTTJYmFjaDgs
 embed_html: |
   <!-- Paste the Audiomack ALBUM embed iframe here -->
   <!-- Example:
