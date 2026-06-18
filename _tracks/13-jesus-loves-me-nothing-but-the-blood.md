@@ -1,6 +1,6 @@
 ---
 layout: track
-title: "Jesus Loves Me/Nothing But The Blood"
+title: "Jesus Loves Me - Nothing But The Blood"
 slug: 13-sunday-school-mashup
 album: deep-cuts
 album_title: "Deep Cuts"
