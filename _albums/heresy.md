@@ -25,7 +25,7 @@ embed_html: |
   <!-- Example:
   <iframe src="https://audiomack.com/embed/album/ARTIST/ALBUMSLUG" width="100%" height="305" frameborder="0" scrolling="no"></iframe>
   -->
-  <iframe src="https://audiomack.com//embed/billcrossley/album/heresy" scrolling="no" width="100%" height="252" frameborder="0" title="Americana"></iframe>
+  <iframe src="https://audiomack.com//embed/billcrossley/album/heresy" scrolling="no" width="100%" height="250" frameborder="0" title="Americana"></iframe>
 
 ---
 This album, Heresy, serves as a sequel to Orthodox. In many ways, it's also an opposite to Orthodox. Where Orthodox is all about affirming the Christian faith and doctrines, Heresy tells the story of a man of faith who nearly falls away. It explores themes of self-righteousness, indulgence, temptation, questioning one's faith, and what happens to the conscience when you let your guard down. It can also be viewed as the next phase in the history of the Church, and in some ways, it's also my personal story.  It asks uncomfortable questions, and portrays temptation in a way that most people don't recognize it: beautiful, seductive, everything you've wanted. The songs follow the story of 'the narrator,' who begins this chapter in his life strong and confident in his faith. By the end, he wonders if we was ever really a believer to begin with, and if it even matters at all. At The Edge of Apostasy, the narrator has a decision to make, and it's a difficult one.

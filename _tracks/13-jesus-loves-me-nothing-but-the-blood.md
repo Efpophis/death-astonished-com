@@ -4,7 +4,7 @@ title: "Jesus Loves Me/Nothing But The Blood"
 slug: 13-sunday-school-mashup
 album: deep-cuts
 album_title: "Deep Cuts"
-artist: "Death Astonished"
+artist: "Death Astonished" 
 track_number: 13
 notes: |
   <p>In the tradition of metal-izing old hymns, I had to do a 'Jesus Loves Me/Nothing But The Blood' mashup. The idea came to me when I realized that bits of each song share the same rhythm.</p>
@@ -14,7 +14,7 @@ embed_html: |
   <!-- Example:
   <iframe src="https://audiomack.com/embed/song/ARTIST/TRACKSLUG" width="100%" height="110" frameborder="0" scrolling="no"></iframe>
   -->
-  <iframe src="https://audiomack.com//embed/billcrossley/song/sunday-school-mashup" scrolling="no" width="100%" height="252" frameborder="0" title="Sunday School Mashup"></iframe>
+  <iframe src="https://audiomack.com//embed/billcrossley/song/jesus-loves-me-nothing-but-the-blood" scrolling="no" width="100%" height="252" frameborder="0" title="Sunday School Mashup"></iframe>
   <p>Watch</p>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/sFx4ngEevak?si=uZVpdP9PjQijA6Hi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ---
