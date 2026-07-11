@@ -12,14 +12,14 @@ listen_links:
   - label: Audiomack
     url: https://audiomack.com/billcrossley/album/heresy
   - label: YouTube
-    url: https://youtu.be/5uxCb6HUEoo
+    url: https://youtu.be/rrOusRlBzRw
 download_links:
   - label: "Download MP3"
     comment: "320kbps high quality. Most compatible."
-    url: https://mega.nz/file/tFYxSYIK#8pt2nYAXC5hSQ3ZZaABX68J8QP4hD6FYia1KHrQnt8U
+    url: https://mega.nz/file/4QJ1iShD#ggy-biH22FhrjP2l6bY6FpSpXAAoknqsQvEssxqKQbE
   - label: "Download FLAC"
     comment: "Lossless for audiophiles. Largest file size."
-    url: https://mega.nz/file/oFhkQIBR#3ZhF-qjbjX72rVQ0PgJMlf4vrk9bRWJPJ96PCabjwaU
+    url: https://mega.nz/file/EJxTxChD#sOKHoHN8Ug1dhxPO6Cjbu2hk36gT-NqdciiraNKigws
 embed_html: |
   <!-- Paste the Audiomack ALBUM embed iframe here -->
   <!-- Example:
