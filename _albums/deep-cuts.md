@@ -5,7 +5,7 @@ slug: deep-cuts
 project: "death-astonished"
 artist: "Death Astonished"
 cover: /assets/img/deep-cuts.jpg 
-release_date: 2026-07-04
+release_date: 2026-08-01
 og_image: /assets/img/heresy.jpg
 download_links:
   - label: "Download MP3"
@@ -16,7 +16,7 @@ download_links:
     url: https://mega.nz/file/sAIWmLiS#xd7z7dqbfZS4BMKbyT06UPBrTkFKqJxaIeyw8mBXiEU
 listen_links:
   - label: Audiomack
-    url: https://audiomack.com/billcrossley/album/deep-cuts
+    url: https://audiomack.com/billcrossley/album/deep-cuts-1
   - label: YouTube
     url: https://youtube.com/@DeathAstonished
 embed_html: |
@@ -24,7 +24,7 @@ embed_html: |
   <!-- Example:
   <iframe src="https://audiomack.com/embed/album/ARTIST/ALBUMSLUG" width="100%" height="305" frameborder="0" scrolling="no"></iframe>
   -->
-  <iframe src="https://audiomack.com//embed/billcrossley/album/deep-cuts" scrolling="no" width="100%" height="250" frameborder="0" title="Deep Cuts"></iframe>
+  <iframe src="https://audiomack.com//embed/billcrossley/album/deep-cuts-1" scrolling="no" width="100%" height="250" frameborder="0" title="Deep Cuts"></iframe>
 ---
 A few times during the process of making albums for The Redeemer Project or my later stuff, I've encountered a few of these situations:
 

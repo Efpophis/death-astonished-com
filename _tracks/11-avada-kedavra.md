@@ -23,7 +23,7 @@ embed_html: |
   <iframe src="https://audiomack.com//embed/billcrossley/song/avada-kedavra" scrolling="no" width="100%" height="252" frameborder="0" title="Avada Kedavra"></iframe>
 ---
 ```text
-Verse 1]
+[Verse 1]
 You're the chosen one,
 And you bear my mark
 You've been having some fun 
