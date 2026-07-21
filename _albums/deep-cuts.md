@@ -16,7 +16,7 @@ download_links:
     url: https://mega.nz/file/sAIWmLiS#xd7z7dqbfZS4BMKbyT06UPBrTkFKqJxaIeyw8mBXiEU
 listen_links:
   - label: Audiomack
-    url: https://audiomack.com/billcrossley/album/deep-cuts-1
+    url: https://audiomack.com/billcrossley/album/deep-cuts
   - label: YouTube
     url: https://youtube.com/@DeathAstonished
 embed_html: |
