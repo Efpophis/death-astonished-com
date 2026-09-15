@@ -24,7 +24,7 @@ embed_html: |
   <!-- Example:
   <iframe src="https://audiomack.com/embed/album/ARTIST/ALBUMSLUG" width="100%" height="305" frameborder="0" scrolling="no"></iframe>
   -->
-  <iframe src="https://audiomack.com//embed/billcrossley/album/let-there-be-silence" scrolling="no" width="100%" height="250" frameborder="0" title="Let There Be Silence"></iframe>
+  <iframe src="https://audiomack.com//embed/billcrossley/album/let-there-be-silence" scrolling="no" width="100%" height="500" frameborder="0" title="Let There Be Silence"></iframe>
 ---
 A few weeks before wrapping production on [Orthodox](/albums/orthodox), I discovered an ancient piece of music called "The Oxyrhynchus Hymn." Apparently, it was discovered in Egypt, and is the oldest known Christian hymn for which both lyrics and musical notation are preserved. The hymn is in ancient Greek and dates to the 3rd century AD.
 

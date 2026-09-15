@@ -20,8 +20,15 @@ download_links:
   - label: "Download FLAC"
     comment: "Lossless for audiophiles. Largest file size."
     url: https://mega.nz/file/FBo00ZwR#e3rqOc1BMD19r86TTJ3w12x4FFbfS6ir0eQhKWeqhzs
+commented_out: | 
+  <a href="https://audiomack.com/billcrossley/album/yahweh-our-light-1" target=_blank><img src="https://i.audiomack.com/billcrossley/d7e2e7daa9.webp" width=100% height=315></a>
+
+  
 embed_html: |
-  <iframe src="https://audiomack.com//embed/billcrossley/album/yahweh-our-light-1" scrolling="no" width="100%" height="250" frameborder="0" title="Yahweh Our Light"></iframe>
+  <iframe src="https://audiomack.com//embed/billcrossley/album/yahweh-our-light-1" scrolling="no" width="100%" height="500" frameborder="0" title="Yahweh Our Light"></iframe>
+  <p>Watch</p>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/x1VhaKwlH_c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 This is my second AI-generated album, and, depending on how much more inspiration I have, it may be the last one for a while.
 

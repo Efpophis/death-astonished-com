@@ -25,7 +25,7 @@ embed_html: |
   <!-- Example:
   <iframe src="https://audiomack.com/embed/album/ARTIST/ALBUMSLUG" width="100%" height="305" frameborder="0" scrolling="no"></iframe>
   -->
-  <iframe src="https://audiomack.com//embed/billcrossley/album/god-with-us" scrolling="no" width="100%" height="250" frameborder="0" title="God With Us"></iframe>
+  <iframe src="https://audiomack.com//embed/billcrossley/album/god-with-us" scrolling="no" width="100%" height="500" frameborder="0" title="God With Us"></iframe>
 ---
 I wanted to do a Christmas album (and it's currently the middle of July as I'm typing this), and I was heavily inspired by the Christmas concerts I used to sing in during my years in high school choir. Most of these songs, therefore, I have actually performed live - tho in a much different genre. Our concerts would ALWAYS begin with Oh Come All Ye Faithful, and end with Oh Holy Night. Therefore, so does this album - if you don't count the bonus track, since every Redeemer Project album must have a Klingon Death Metal song.
 

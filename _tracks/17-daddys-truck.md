@@ -40,7 +40,7 @@ In Daddy's truck we understand
 
 [Chorus] x 2
 We're goin' for a ride in Daddy's truck
-Don't know where we're goin' don't give a FORK
+Don't know where we're goin' don't give a care
 Road ahead is open clear as day
 In Daddy's truck we'll find our way
 
@@ -60,7 +60,7 @@ Every moment feels so true
 
 [Outro] x 3
 We're goin' for a ride in Daddy's truck
-Don't know where we're goin' don't give a FORK
+Don't know where we're goin' don't give a care
 Road ahead is open clear as day
 In Daddy's truck we'll find our way
 

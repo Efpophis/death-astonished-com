@@ -23,7 +23,8 @@ embed_html: |
   <!-- Example:
   <iframe src="https://audiomack.com/embed/album/ARTIST/ALBUMSLUG" width="100%" height="305" frameborder="0" scrolling="no"></iframe>
   -->
-  <iframe src="https://audiomack.com/embed/billcrossley/album/reformation" scrolling="no" width="100%" height="250" frameborder="0" title="Reformation"></iframe>
+  <iframe src="https://audiomack.com/embed/billcrossley/album/reformation" scrolling="no" width="100%" height="500" frameborder="0" title="Reformation"></iframe> 
+  <!-- <a href="https://audiomack.com/billcrossley/album/reformation" target=_blank><img src="https://i.audiomack.com/billcrossley/b4b8fae757.webp" width=100% height=350 ></a> -->
   <p>Watch</p>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/B6YRaattRD8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ---
