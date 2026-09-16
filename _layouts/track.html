@@ -18,13 +18,23 @@ layout: default
     {% else %}
       <p>Add an embed snippet (Audiomack/Audius/YouTube) via <code>embed_html</code>.</p>
     {% endif %}
-
-    {% if page.notes %}
-      <hr>
-      <p class="kicker">Notes</p>
-      <p>{{ page.notes }}</p>
-    {% endif %}
   </div>
+  {% if page.embed_video %}
+  <div class="card">
+      <p class="kicker">Watch</p>
+      <div class="embed">{{ page.embed_video }}</div>
+  </div>
+  {% endif %}
+
+  {% if page.notes %}
+  <div class="card">
+  <p class="kicker">Notes</p>
+  <div class="card">
+    <p>{{ page.notes }}</p>
+  </div>
+  </div>
+  {% endif %}
+
   {% if page.hide_lyrics != 1 %}
   <div class="card">
     <p class="kicker">Lyrics</p>
