@@ -18,9 +18,7 @@ embed_html: |
   <iframe src="https://audiomack.com//embed/billcrossley/song/apocalypse" scrolling="no" width="100%" height="252" frameborder="0" title="Apocalypse"></iframe>
 
 embed_video: |
-  <div class="video-container">
-    <iframe src="https://www.youtube.com/embed/WWKTjTavhgg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-  </div>
+  <iframe src="https://www.youtube.com/embed/WWKTjTavhgg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ---
 ```text
 [Verse 1]
