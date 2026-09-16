@@ -24,9 +24,9 @@ embed_html: |
   <iframe src="https://audiomack.com/embed/album/ARTIST/ALBUMSLUG" width="100%" height="305" frameborder="0" scrolling="no"></iframe>
   -->
   <iframe src="https://audiomack.com/embed/billcrossley/album/reformation" scrolling="no" width="100%" height="500" frameborder="0" title="Reformation"></iframe> 
-  <!-- <a href="https://audiomack.com/billcrossley/album/reformation" target=_blank><img src="https://i.audiomack.com/billcrossley/b4b8fae757.webp" width=100% height=350 ></a> -->
+  <!-- <a href="https://audiomack.com/billcrossley/album/reformation" target=_blank><img src="https://i.audiomack.com/billcrossley/b4b8fae757.webp" width=100% height=350 ></a> 
   <p>Watch</p>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/B6YRaattRD8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/B6YRaattRD8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
 ---
 
 The epic conclusion of The Reformation Trilogy picks up the narrator's story right where we left it at the end of Heresy. He is completely broken and ready to be rebuilt in the image of Christ. In the opening track, we are presented with two conflicting world views vying for attention in his head. Only one must prevail, and the choice is made. The rest of the album details how this new hope and transformation works out: through repentance, humility, confession, and ultimately faith with a healthy dose of resilience.
