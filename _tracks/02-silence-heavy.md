@@ -27,9 +27,9 @@ Pasai hai pnoai ton anemon
 Kai pasai hai pnygai ton potamon
 Sigato, sigato
 
-[interlude: short]
+[Interlude: short]
 
-[bridge]
+[Bridge]
 Hymnon asomen
 Pros Patera kai Huion
 Kai Hagion Pneuma
@@ -43,7 +43,7 @@ Amen, amen
 Let there be silence,
 Let all the shining stars,
 Let all the host of heaven
-refuse to give their light.
+Refuse to give their light.
 
 [Verse 4]
 Let all creation be silent,
@@ -78,7 +78,7 @@ pros Patera kai Huion
 kai Hagion Pneuma
 
 Pasai hai dynameis
-apokrotesato
+Apokrotesato
 
 Amen
 Amen

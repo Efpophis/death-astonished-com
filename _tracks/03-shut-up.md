@@ -17,7 +17,7 @@ embed_html: |
 ```text
 [Intro]
 Yeah ... 
-uh huh ..
+Uh huh ..
 Oh, yeah ...
 Yo! Listen up!
 
@@ -25,15 +25,15 @@ Yo! Listen up!
 Hey - pause.
 Everybody shush.
 Put the phone down,
-close the tabs,
-cut the noise,
-hit stop.
+Close the tabs,
+Cut the noise,
+Hit stop.
 
 No takes,
-no threads,
-no side-eye commentary,
-no one needs a reaction vid
-to everything happening.
+No threads,
+No side-eye commentary,
+No one needs a reaction vid
+To everything happening.
 
 [Pre-Chorus]
 Stars - dim it.
@@ -42,9 +42,9 @@ Wind  - chill.
 Rivers - take a break.
 
 Whole universe,
-hold still a sec,
-this ain't no suggestion -
-we comin' at ya direct.
+Hold still a sec,
+This ain't no suggestion -
+We comin' at ya direct.
 
 [Chorus]
 SHUT UP!
@@ -59,31 +59,31 @@ JUST HOLD THE PAUSE!
 
 [Interlude]
 [Instrumental]
-uh huh ..
+Uh huh ..
 That's right ..
-go! go! go!
+Go! Go! Go!
 
 [Verse 2]
 No notifications,
-no running debate,
-no “actually…”,
-no hot takes.
+No running debate,
+No “actually…”,
+No hot takes.
 
 No doomscrollin',
-no noise parade,
-no NPC speech
-in the middle of praise.
+Bo noise parade,
+No NPC speech
+In the middle of praise.
 
 [Bridge]
 We’re lifting our voices
-to the Father, Son, and Spirit,
-not chasing attention,
-but you're gonna hear it!
+To the Father, Son, and Spirit,
+Not chasing attention,
+But you're gonna hear it!
 
 This ain't content,
-this ain't no show,
-this is our worship -
-so just let it go.
+This ain't no show,
+This is our worship -
+So just let it go.
 
 [Breakdown]
 Everybody -
@@ -99,27 +99,27 @@ WAIT.
 
 [doublt-time fast rap break - fast, hard, half-time groove underneath, vocals pushed way forward]
 Born in the quiet, no stage, no hype,
-no likes, no feed, no verified life,
+No likes, no feed, no verified life,
 Bethlehem backstreet, nobody knew,
 God in the flesh, comin' through with the truth.
 Walked with the broken, ate with the blamed,
-flipped all the tables, called out the game,
+Flipped all the tables, called out the game,
 No clout chasin', no silver spoon,
 He said “love your enemies,” and blew up the room.
 Spoke in parables, and cut through the noise,
-healed the sick, and gave sight to the blind boys,
-a King with no throne, a crown made of thorns,
-peace in his mouth while the crowd still roars.
-the Cross hit hard, the whole sky went dark,
-friends all dipped when it got real stark,
-Blood on the wood, he said “it is done,”
-the grave tried to keep him but it failed by day one.
-the stone rolled back, and death took the L,
-resurrection busted every prison cell,
+Healed the sick, and gave sight to the blind boys,
+A King with no throne, a crown made of thorns,
+Peace in His mouth while the crowd still roars.
+The Cross hit hard, the whole sky went dark,
+Friends all dipped when it got real stark,
+Blood on the wood, He said “it is done,”
+The grave tried to keep Him but it failed by day one.
+The stone rolled back, and death took the L,
+Resurrection busted every prison cell,
 Forty days topside, then the sky opened wide,
-He said “I’ll be back,” then he ascended on high.
+He said “I’ll be back,” then He ascended on high.
 Now we wait steady, no fear, no rush,
-the world's still loud but the truth cuts the hush,
+The world's still loud but the truth cuts the hush,
 Alpha, Omega, the beginning and the end,
 The King’s coming back  - yeah, go tell a friend.
 
@@ -152,7 +152,7 @@ JUST HOLD THE PAUSE
 
 [ending - spoken over silence - no music]
 Just -
-be quiet.
+Be quiet.
 For like,
-two seconds.
+Two seconds.
 ```
