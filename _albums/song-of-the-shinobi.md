@@ -25,7 +25,7 @@ embed_html: |
   <!-- Example:
   <iframe src="https://audiomack.com/embed/album/ARTIST/ALBUMSLUG" width="100%" height="500" frameborder="0" scrolling="no"></iframe>
   -->
-  <iframe src="https://audiomack.com//embed/billcrossley/album/song-of-the-shinobi" scrolling="no" width="100%" height="500" frameborder="0" title="Song of the Shinobi"></iframe>
+  <iframe src="https://audiomack.com//embed/billcrossley/album/song-of-the-shinobi" scrolling="no" width="100%" height="455" frameborder="0" title="Song of the Shinobi"></iframe>
 ---
 Inspired by, dedicated to, and featuring the instructors and students of [The Warrior Protector](https://www.warrior-protector.com){:target="_blank" rel="noopener noreferrer"}.
 

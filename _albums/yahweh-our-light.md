@@ -27,7 +27,7 @@ commented_out: |
 
   
 embed_html: |
-  <iframe src="https://audiomack.com//embed/billcrossley/album/yahweh-our-light-1" scrolling="no" width="100%" height="500" frameborder="0" title="Yahweh Our Light"></iframe>
+  <iframe src="https://audiomack.com//embed/billcrossley/album/yahweh-our-light-1" scrolling="no" width="100%" height="455" frameborder="0" title="Yahweh Our Light"></iframe>
 
 
 ---

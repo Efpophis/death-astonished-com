@@ -25,7 +25,7 @@ embed_html: |
   <!-- Example:
   <iframe src="https://audiomack.com/embed/album/ARTIST/ALBUMSLUG" width="100%" height="305" frameborder="0" scrolling="no"></iframe>
   -->
-  <iframe src="https://audiomack.com//embed/billcrossley/album/seven" scrolling="no" width="100%" height="500" frameborder="0" title="Seven"></iframe>
+  <iframe src="https://audiomack.com//embed/billcrossley/album/seven" scrolling="no" width="100%" height="455" frameborder="0" title="Seven"></iframe>
 ---
 This is my seventh and final album as The Redeemer Project. There's not really a central theme here unless it's that of completion and ending. That said, after I started putting it together, I realized the potential for some symbolism and went with it. There's a reason the tracks are ordered the way they are - "the first shall be last, and the last shall be first." The End is just the beginning, weird stuff like that. Seven is often used to symbolize completion and fulfillment in the Bible - seven days of creation, seven seals, seven trumpets, etc. Multiples of seven are also used pretty often - seventy weeks, seventy times seven to symbolize unconditional and limitless forgiveness .. so therefore, there are 21 tracks [the third multiple of seven, calling out a reference to the Holy Trinity] on this album, and The Redeemer Project is completed. You'll find symbolism in the album art as well ... if you look for it.
 

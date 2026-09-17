@@ -25,7 +25,7 @@ embed_html: |
   <!-- Example:
   <iframe src="https://audiomack.com/embed/album/ARTIST/ALBUMSLUG" width="100%" height="305" frameborder="0" scrolling="no"></iframe>
   -->
-  <iframe src="https://audiomack.com//embed/billcrossley/album/requiem-ex-mortis" scrolling="no" width="100%" height="500" frameborder="0" title="Requiem Ex Mortis"></iframe>
+  <iframe src="https://audiomack.com//embed/billcrossley/album/requiem-ex-mortis" scrolling="no" width="100%" height="455" frameborder="0" title="Requiem Ex Mortis"></iframe>
 ---
 This is another thing I have always wanted to do. I realize very few will 'get it' and probably even fewer will actually like it. Oh well.
 
