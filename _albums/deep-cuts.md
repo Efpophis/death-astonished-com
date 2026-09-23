@@ -6,7 +6,7 @@ project: "death-astonished"
 artist: "Death Astonished"
 cover: /assets/img/deep-cuts.jpg 
 release_date: 2026-08-01
-og_image: /assets/img/heresy.jpg
+og_image: /assets/img/deep-cuts.jpg
 download_links:
   - label: "Download MP3"
     comment: "320kbps high quality. Most compatible."
