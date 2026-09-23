@@ -23,7 +23,7 @@ embed_html: |
   <!-- Example:
   <iframe src="https://audiomack.com/embed/album/ARTIST/ALBUMSLUG" width="100%" height="305" frameborder="0" scrolling="no"></iframe>
   -->
-  <iframe src="https://audiomack.com//embed/billcrossley/album/orthodox" scrolling="no" width="100%" height="250" frameborder="0" title="Orthodox"></iframe>
+  <iframe src="https://audiomack.com//embed/billcrossley/album/orthodox" scrolling="no" width="100%" height="455" frameborder="0" title="Orthodox"></iframe>
 ---
 I happened onto something kind of magical with <a href="/tracks/04-ad-lumen-dei">Ad Lumen Dei</a> from <a href="/albums/mors-stupebit">Mors Stupebit</a>, which is a majestic blending of centuries-old Gregorian chant and modern metal. I really wanted to try to catch that lightning in a bottle again, but also differently.
 

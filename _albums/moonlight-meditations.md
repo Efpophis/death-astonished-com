@@ -25,7 +25,7 @@ embed_html: |
   <!-- Example:
   <iframe src="https://audiomack.com/embed/album/ARTIST/ALBUMSLUG" width="100%" height="305" frameborder="0" scrolling="no"></iframe>
   -->
-  <iframe src="https://audiomack.com//embed/billcrossley/album/moonlight-meditations" scrolling="no" width="100%" height="250" frameborder="0" title="Moonlight Meditations"></iframe>
+  <iframe src="https://audiomack.com//embed/billcrossley/album/moonlight-meditations" scrolling="no" width="100%" height="455" frameborder="0" title="Moonlight Meditations"></iframe>
 ---
 This is an experiment turned concept album. I wanted to see if I could generate a series of tracks in the same key and have them blend together as a symphony-like composition. It seems to work well enough.
 

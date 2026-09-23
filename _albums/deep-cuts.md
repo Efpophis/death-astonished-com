@@ -24,7 +24,7 @@ embed_html: |
   <!-- Example:
   <iframe src="https://audiomack.com/embed/album/ARTIST/ALBUMSLUG" width="100%" height="305" frameborder="0" scrolling="no"></iframe>
   -->
-  <iframe src="https://audiomack.com//embed/billcrossley/album/deep-cuts" scrolling="no" width="100%" height="250" frameborder="0" title="Deep Cuts"></iframe>
+  <iframe src="https://audiomack.com//embed/billcrossley/album/deep-cuts" scrolling="no" width="100%" height="455" frameborder="0" title="Deep Cuts"></iframe>
 ---
 A few times during the process of making albums for The Redeemer Project or my later stuff, I've encountered a few of these situations:
 

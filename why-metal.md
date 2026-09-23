@@ -3,7 +3,7 @@
 ### by Bill Crossley
 ---
 ## Background
-<!-- Section: background -->
+
 I have been a fan of Christian rock and metal music since shortly after my conversion to Christianity in the early 1990s. I even played in a small garage band for a few years before going away to college, and today I use AI to create (and sometimes re-create) my own Christian metal songs. The process behind all that is beyond the scope of this document.
 
 Throughout the history of Christian rock, and especially Christian metal, one thing that's remained consistent is that there are always those in the body of Christ who oppose it. It's natural that the secular metal scene would be hostile to Christianity and therefore Christian metal - after all, the secular anything scene hated Jesus, and He warned us that if we loved and followed Him, the world would hate us, too. So opposition from the world is no surprise. It's the opposition from the church that is both surprising, and, in my opinion, in need of correction.
@@ -13,13 +13,13 @@ In this essay, I will review some of the arguments I've heard over the years aga
 ## The Arguments Against Christian Metal, and Why They Fall Short
 
 ### Argument 1: "Christian Metal is Worldly" (Romans 12:2)
-<!-- Section: worldly-intro -->
+
 The argument I hear most often is that rock and especially metal music are inherently worldly, or even Satanic, by nature, and therefore the Christian should avoid the styles themselves. They argue that Christian rock and metal are basically the same evil, secular stuff, but with "Christian sprinkles" on top. The idea here is that using these styles with Christian lyrics is "conforming to this world," and the Christian should, instead, "be transformed by the renewing of your mind" `Romans 12:2`.
 
 There's a lot to unpack here, so let's address it point by point.
 
 #### Does Using a Cultural Form Equal Conforming to the World?
-<!-- Section: cultural-form -->
+
 
 Taking `Romans 12:2` in context, Paul is not talking about aesthetics, styles, or cultural forms. He's talking about values, mindset, ethics, and morals. The 'conforming' he warns about is allowing the world's system of values, or lack thereof, to reshape your thinking and pull you away from Christ and Godly living. While lyrical content can and does have that effect, it has done so regardless of genre, and since long before rock and metal existed.
 
@@ -42,7 +42,7 @@ Reaching back to the Old Testament, we see that Miriam, at the Red Sea, picked u
 This sort of thing is exactly what Paul was talking about when he mentions the renewing of the mind. You take everything you love - including your music - and say "This belongs to God now."  Christian rock and metal is exactly this - it is not conforming to the world, it's transforming it with a new way of thinking. It's `Romans 12:2` working as specified.
 
 #### Are Rock and Metal Inherently Evil or Worldly?
-<!-- Section: inherency-intro -->
+
 This argument is usually made based on the origins of the genre, especially against metal music. My first response to this is that God is the creator, and the devil merely perverts and seeks to corrupt His creation. I would say that the devil did not create metal, God did - and the devil perverted it. However, opponents will point to some of the pioneers of the genre like Elvis Presley for rock and Black Sabbath for metal, etc. They will note that rock music, in its beginnings, leaned hard into themes of rebellion against authority, hypersexuality, etc., and suggest that God created music and then the devil warped it into rock and metal.
 
 But is this really the case? I think we can all acknowledge that metal and all its sub-genres naturally evolved from rock and roll, which itself became popular around the 1950s. But where did that all come from? Who were some of the earliest architects of heavy, distorted, aggressive rock music? You had artists like Little Richard, who was a Pentecostal preacher's kid who wrestled his whole life between gospel and rock. The blues tradition that fathered rock was saturated with the Black church. The loudness, the emotional intensity, the call and response - these didn't come from Satanism. They came from African American Christian worship tradition filtered through cultural experience. So no, rock did not come from the devil - it came from an oppressed Christian people expressing their pain and desire for freedom and equality. It wasn't until later that others perverted it into the ungodliness cited by the opponents. Now, let's take a look at where all this opposition to rock music started.
@@ -54,25 +54,7 @@ It's no coincidence that the early "rock is evil" voices had significant overlap
 Now, this does not mean that everyone who holds the "rock is evil" view today is a racist - there are many who hold it in good faith, having inherited it without examining its cultural, racial, and historical roots. But, the point stands that the argument against rock music was never purely theological, and we should be honest about that moving forward.
 
 ### Argument 2: "The Origins of Metal Are Spiritually Tainted"
-<!-- Section: tainted-origin -->
-<!-- PLACEHOLDER: The "conceived in perversion" argument - more sophisticated than Argument 1.
-     This claims metal isn't a neutral form that got perverted - it was conceived in perversion,
-     so the form itself is permanently tainted at the root.
-     Key points to cover:
-     - Steel-man the argument first so you're not arguing a strawman
-     - The Roman cross: designed for terror and humiliation, now the central symbol of 
-       Christianity. Origin didn't permanently determine its nature.
-     - The Tanakh angle: the word "Selah" in the Psalms is widely believed to be a musical 
-       notation borrowed from surrounding pagan culture. Israel consecrated what existed.
-     - The pioneers argument has a historical wrinkle: Black gospel and blues roots 
-       (already covered in Argument 1, reference back)
-     - Your personal story: you came to metal THROUGH Deliverance, a Christian band. 
-       The genre didn't arrive carrying Satanic baggage for you - it arrived carrying the Gospel.
-     - The logical endpoint: if a genre is permanently defined by its worst pioneers, 
-       what do we do with Wagner, Liszt, and other morally compromised classical composers?
-       The origins argument would gut the classical canon if applied consistently.
-     - Creativity is imago Dei. Satan creates nothing - he only corrupts and misdirects. 
-       The redemption of corrupted things back to their Creator is a picture of the Gospel itself. -->
+
 Opponents of Christian metal will occasionally present a more complex version of the "worldly origins" argument and suggest that, contrary to my assertion that God created metal and Satan perverted it, metal is, in and of itself, the perversion. I've previously argued that this is not the case, but lets revisit that claim briefly. What if it was actually true, and metal did originate as a spiritually tainted thing?  Critics will point to the pioneers of metal, often mentioning bands like Black Sabbath and Judas Priest and their heavy use of occult and Satanic themes as evidence of this tainted origin argument. To be honest, it's difficult to argue against - those bands did, after all, do all of those things and more. That is, if we set aside the actual origin of rock, which I expounded earlier.
 
 Even so, that doesn't mean that Christian metal inherits that spiritual stain.  Consider numerous counter-examples outside of the musical realm.
@@ -90,25 +72,7 @@ This isn't to say that these origins are actually good things - they're not. Thi
 Creativity is, basically `imago Dei` - the image if God in which we ourselves were created. Even when it comes from horribly sinful people, God is still the one doing the creating. Redeeming those creations like classical, rock, and metal music and re-consecrating them back to God their creator is not a perversion - it's a picture of the Gospel itself at work.
 
 ### Argument 3: "Moses Heard Ungodly Music" (Exodus 32)
-<!-- Section: exodus-32 -->
-<!-- PLACEHOLDER: The Exodus 32 argument - Moses coming down from the mountain.
-     This is more sophisticated and deserves careful exegesis.
-     Key points to cover:
-     - What the text ACTUALLY says: Exodus 32:17-18. Joshua hears it first and says 
-       it sounds like war. Moses corrects him - it's "kol anot" - the sound of singing / 
-       answering back and forth.
-     - The "ungodliness" Moses recognized wasn't in the STYLE of the music. It was 
-       situational awareness - combined with what God had already told him coming down 
-       the mountain, he knew what was happening. Not mystical discernment of evil sonic frequencies.
-     - The sin at the golden calf wasn't a musical sin. The music was incidental. 
-       They were engaging in idolatrous worship, probably incorporating Egyptian religious 
-       practices from captivity. The problem was WHO and WHAT they were worshipping.
-     - The argument proves too much: if Moses could identify inherently ungodly musical 
-       styles by sound alone, what WAS that style? Nobody knows. And if we don't know, 
-       how does anyone confidently map it onto modern metal? Huge logical leap, zero textual support.
-     - The Tanakh angle: the same Hebrew roots for musical celebration (ranan, zamar, anah) 
-       appear throughout the Psalms in contexts of RIGHTEOUS worship. 
-       The issue was never the sonic energy. -->
+
 At one point, I heard a counter-argument to all of this that I've said so far, saying, "oh, but there is such a thing as inherently ungodly music!" The author cited `Exodus 32:17-18`, which reads:
 ```text
 Joshua heard the noise of the people shouting. 

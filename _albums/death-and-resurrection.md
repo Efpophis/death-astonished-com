@@ -21,7 +21,7 @@ download_links:
     comment: "Lossless for audiophiles. Largest file size."
     url: https://mega.nz/file/1VRRUZxJ#bTo3olYKtdhxWH6R3QW56yF73VZ9YWmA_fxRdTj5cDc
 embed_html: |
-   <iframe src="https://audiomack.com/embed/album/billcrossley/death-and-resurrection" width="100%" height="250" frameborder="0" scrolling="no"></iframe>
+   <iframe src="https://audiomack.com/embed/album/billcrossley/death-and-resurrection" width="100%" height="455" frameborder="0" scrolling="no"></iframe>
 ---
 Ultimately, I am making this album to express my faith in Jesus Christ, to worship him with music that I like, and to share my own testimony in the hope that maybe someone, somewhere, will hear it and be inspired to Believe in Him for the first time, or once again. That said, there are a few songs on here that are not of an overtly Christian nature, but it is still there, under the surface - except for the Klingon one, which is just for fun. 
 

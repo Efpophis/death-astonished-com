@@ -25,7 +25,7 @@ embed_html: |
   <!-- Example:
   <iframe src="https://audiomack.com/embed/album/ARTIST/ALBUMSLUG" width="100%" height="305" frameborder="0" scrolling="no"></iframe>
   -->
-  <iframe src="https://audiomack.com//embed/billcrossley/album/eliyahu" scrolling="no" width="100%" height="252" frameborder="0" title="Eliyahu"></iframe>
+  <iframe src="https://audiomack.com//embed/billcrossley/album/eliyahu" scrolling="no" width="100%" height="455" frameborder="0" title="Eliyahu"></iframe>
 ---
 I've long been a fan of Elijah (pronounced Eliyahu in Hebrew) the Tishbite - the Old Testament prophet whose name means "Yahweh is my God." 
 

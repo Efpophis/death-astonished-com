@@ -25,7 +25,7 @@ embed_html: |
   <!-- Example:
   <iframe src="https://audiomack.com/embed/album/ARTIST/ALBUMSLUG" width="100%" height="305" frameborder="0" scrolling="no"></iframe>
   -->
-  <iframe src="https://audiomack.com//embed/billcrossley/album/mors-stupebit" scrolling="no" width="100%" height="250" frameborder="0" title="Mors Stupebit"></iframe>
+  <iframe src="https://audiomack.com//embed/billcrossley/album/mors-stupebit" scrolling="no" width="100%" height="455" frameborder="0" title="Mors Stupebit"></iframe>
 ---
 This is my first non-Redeemer Project album. While I couldn't resist doing a couple more Redeemer-era covers, you'll find that the rest of the album is quite different, yet still familiar. It's still me, after all.
 

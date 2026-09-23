@@ -25,7 +25,7 @@ embed_html: |
   <!-- Example:
   <iframe src="https://audiomack.com/embed/album/ARTIST/ALBUMSLUG" width="100%" height="305" frameborder="0" scrolling="no"></iframe>
   -->
-  <iframe src="https://audiomack.com//embed/billcrossley/album/americana-1" scrolling="no" width="100%" height="252" frameborder="0" title="Americana"></iframe>
+  <iframe src="https://audiomack.com//embed/billcrossley/album/americana-1" scrolling="no" width="100%" height="455" frameborder="0" title="Americana"></iframe>
 ---
 
 <!-- Album description / liner notes go here. -->
