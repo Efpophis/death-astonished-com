@@ -29,5 +29,8 @@ Simply close this browser tab to return to the album download page.
 ### Why did this take me to MEGA?
 I use MEGA to host the larger album download files. You're still downloading my music; MEGA is simply where the file is stored.
 
+### What is FLAC?
+FLAC is just a different audio format that is able to preserve the music in a lossles format. Audio playback quality may be slightly better. You can use these if you know what you're doing and prefer to. However, the MP3 files are also very high quality, much smaller in size, and compatible across more devices. Most people won't be able to tell the difference.
+
 ### Alternatives
 You can also use the AudioMack app on your device to download albums or individual songs. I have not done this myself, so I am not familiar with exactly how it works.
