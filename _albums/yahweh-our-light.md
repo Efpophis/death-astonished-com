@@ -15,10 +15,10 @@ listen_links:
     url: https://www.youtube.com/watch?v=x1VhaKwlH_c
 download_links:
   - label: "Download MP3"
-    comment: "320kbps high quality. Most compatible."
+    comment: "[Recommended] Most compatible."
     url: https://mega.nz/file/cQoQWIxa#CdUecrwPEpe9L25jv2qSXxVFmIw_pfzSc2nAUJnhP7k
   - label: "Download FLAC"
-    comment: "Lossless for audiophiles. Largest file size."
+    comment: "Lossless for audiophiles."
     url: https://mega.nz/file/FBo00ZwR#e3rqOc1BMD19r86TTJ3w12x4FFbfS6ir0eQhKWeqhzs
 commented_out: | 
   <a href="https://audiomack.com/billcrossley/album/yahweh-our-light-1" target=_blank><img src="https://i.audiomack.com/billcrossley/d7e2e7daa9.webp" width=100% height=315></a>

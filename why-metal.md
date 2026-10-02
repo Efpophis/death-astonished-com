@@ -1,6 +1,9 @@
-# Why Metal?
-### A Theological Analysis of Christian Metal Music
-### by Bill Crossley
+---
+layout: page
+title: "Why Metal?"
+subtitle: |
+   <p>A Theological Analysis of Christian Metal Music</p>
+   <p>by Bill Crossley</p>
 ---
 ## Background
 

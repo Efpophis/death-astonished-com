@@ -15,10 +15,10 @@ listen_links:
     url: https://youtube.com/@DeathAstonished
 download_links:
   - label: "Download MP3"
-    comment: "320kbps high quality. Most compatible."
+    comment: "[Recommended] Most compatible."
     url: https://mega.nz/file/cIJkHSoK#dfaDUvDf66e2ni-GKXuv79tM2MqEiXv7fV510tAJMJg
   - label: "Download FLAC"
-    comment: "Lossless for audiophiles. Largest file size."
+    comment: "Lossless for audiophiles."
     url: https://mega.nz/file/1VRRUZxJ#bTo3olYKtdhxWH6R3QW56yF73VZ9YWmA_fxRdTj5cDc
 embed_html: |
    <iframe src="https://audiomack.com/embed/album/billcrossley/death-and-resurrection" width="100%" height="455" frameborder="0" scrolling="no"></iframe>

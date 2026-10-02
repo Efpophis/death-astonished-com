@@ -14,10 +14,10 @@ listen_links:
     url: https://youtu.be/ikZraVOkycc
 download_links:
   - label: "Download MP3"
-    comment: "320kbps high quality. Most compatible."
+    comment: "[Recommended] Most compatible."
     url: https://mega.nz/file/cEJCmB4D#KmW7qdgXsnAsNCG89IEwFKemqV7jWKGe7GkLsufKyyo
   - label: "Download FLAC"
-    comment: "Lossless for audiophiles. Largest file size."
+    comment: "Lossless for audiophiles."
     url: https://mega.nz/file/gAJ3iC7S#hK5eii-A1s_o3bOxXVh-973_NuzwOqI5NbCAFbwYAXY
 embed_html: |
   <!-- Paste the Audiomack ALBUM embed iframe here -->

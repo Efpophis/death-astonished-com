@@ -15,10 +15,10 @@ listen_links:
     url: https://youtube.com/@DeathAstonished
 download_links:
   - label: "Download MP3"
-    comment: "320kbps high quality. Most compatible."
+    comment: "[Recommended] Most compatible."
     url: https://mega.nz/file/tVh2RKbC#VjYW8mm6NdDdLA0t-oGIwbPFFR-C4tl6z3Yb06Rv3bY
   - label: "Download FLAC"
-    comment: "Lossless for audiophiles. Largest file size."
+    comment: "Lossless for audiophiles."
     url: https://mega.nz/file/lEwGAZhT#C5dLNNTRJo8vETFQNVGCK8pr-cz5xPMCzcZ0FOC0OLo
 embed_html: |
   <!-- Paste the Audiomack ALBUM embed iframe here -->
