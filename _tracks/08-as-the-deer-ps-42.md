@@ -9,7 +9,7 @@ track_number: 8
 notes: |
   <p>One of my favorite "praise and worship" songs about longing for God's presence. I even sang the contemporary version as a solo back in my high school choir days.</p>
 
-  <p>The thing about living faith is that it is not something you can compartmentalize and just save in the sock drawer for a rainy day. It's something that ultimately impacts everything you are. Once you've had a real encounter with God, it leaves you needing more. We can, and often do, ignore that desire - but we shouldn't. God's presense, blessings, and guidance is the one thing we can never have too much of.</p>
+  <p>The thing about living faith is that it is not something you can compartmentalize and just save in the sock drawer for a rainy day. It's something that ultimately impacts everything you are. Once you've had a real encounter with God, it leaves you needing more. We can, and often do, ignore that desire - but we shouldn't. God's presence, blessings, and guidance is the one thing we can never have too much of.</p>
 embed_html: |
   <!-- Paste the Audiomack TRACK embed iframe here -->
   <!-- Example:
