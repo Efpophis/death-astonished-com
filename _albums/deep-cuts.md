@@ -5,20 +5,20 @@ slug: deep-cuts
 project: "death-astonished"
 artist: "Death Astonished"
 cover: /assets/img/deep-cuts.jpg 
-release_date: 2026-08-01
+release_date: 2026-10-31
 og_image: /assets/img/deep-cuts.jpg
 download_links:
   - label: "Download MP3"
-    comment: "320kbps high quality. Most compatible."
+    comment: "[Recommended] Most compatible."
     url: https://mega.nz/file/sNYBRSxL#yS2z_Lj6HqNSnVSfEvmh6IhKKHe4Z0t2b-FKvniVcZ4
   - label: "Download FLAC"
-    comment: "Lossless for audiophiles. Largest file size."
+    comment: "Lossless for audiophiles."
     url: https://mega.nz/file/sAIWmLiS#xd7z7dqbfZS4BMKbyT06UPBrTkFKqJxaIeyw8mBXiEU
 listen_links:
   - label: Audiomack
     url: https://audiomack.com/billcrossley/album/deep-cuts
-  - label: YouTube
-    url: https://youtube.com/@DeathAstonished
+#  - label: YouTube
+#    url: https://youtube.com/@DeathAstonished
 embed_html: |
   <!-- Paste the Audiomack ALBUM embed iframe here -->
   <!-- Example:
