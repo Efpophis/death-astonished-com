@@ -1,19 +1,24 @@
 ---
 layout: track
-title: "Psalm 150 (sparkle party mix)"
-slug: 09-psalm-150-sparkle-party
+title: "Psalm 150 (NDH)"
+slug: 10-psalm-150-sparkle-party
 album: deep-cuts
 album_title: "Deep Cuts"
 artist: "Death Astonished"
-track_number: 9
-notes: "Do you like to sparkle party? So hardcore ... "
-hide_lyrics: 0
+track_number: 10
+notes: |
+  <p>The original version of this is one of my favorites from Mors Stupebit, my first Death Astonished album. That one has a nice middle eastern Jewish flavor and remains the canonical version.</p>
+
+  <p>However, in producing that song and finally landing on a sound and style, Suno gave me a generation that sounded a lot like a Rammstein song - and in 100% Hebrew, no less.  I just had to keep it, and it's too good to not share somewhere.  This is it.</p>
+
+  <p>NDH stands for "Neu Deutsch Harten" - literally "New German Hardness" - which is a sub-genre coined specifically to describe Rammstein and similar bands.</p>
+
 embed_html: |
   <!-- Paste the Audiomack TRACK embed iframe here -->
   <!-- Example:
   <iframe src="https://audiomack.com/embed/song/ARTIST/TRACKSLUG" width="100%" height="110" frameborder="0" scrolling="no"></iframe>
   -->
-  <iframe src="https://audiomack.com//embed/billcrossley/song/psalm-150-sparkle-party-mix" scrolling="no" width="100%" height="252" frameborder="0" title="Psalm 150 (sparkle party mix)"></iframe>
+  <iframe src="https://audiomack.com//embed/billcrossley/song/psalm-150-ndh-1" scrolling="no" width="100%" height="252" frameborder="0" title="Psalm 150 (NDH)"></iframe>
 
 ---
 ```text
