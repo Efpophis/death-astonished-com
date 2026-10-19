@@ -4,11 +4,7 @@ title: "Orthodox"
 slug: orthodox
 project: death-astonished
 artist: "Death Astonished"
-<<<<<<< HEAD
-cover: /assets/img/orthodox.jpg 
-=======
 cover: /assets/img/orthodox.jpg
->>>>>>> deep-cuts
 og_image: /assets/img/orthodox.jpg
 release_date: 2026-04-05
 listen_links:
